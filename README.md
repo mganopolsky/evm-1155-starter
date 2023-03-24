@@ -6,7 +6,7 @@ This is an example project to quickly get an NFT contract started. It is only a 
 
 Clone (or fork) this repository
 
-`git clone git@github.com:Crossmint/evm-721-starter-usdc.git`
+`git clone git@github.com:dmulvi/evm-1155-starter.git`
 
 Install the dependencies
 
